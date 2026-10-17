@@ -12,9 +12,9 @@ Is there a relationship between shots on target and goals scored?
 Which teams combine strong offensive and defensive performance?
 
 ### Tools and Technologies
-Python
-Pandas
-Matplotlib
+Python\ 
+Pandas\ 
+Matplotlib\ 
 Jupyter Notebook
 
 ### Key Findings
